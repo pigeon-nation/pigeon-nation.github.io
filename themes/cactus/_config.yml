@@ -13,8 +13,11 @@ direction: ltr
 # A pair 'Key: url' will result in a link to 'url' with the name 'Key' in the
 # navigation menu. Optionally, you can add translations for the 'Key' in
 # languages/*.yml
+
+# index is a placeholder
+
 nav:
-  home: /
+  home: /index/
   about: /about/
   articles: /archives/
   projects: https://github.com/pigeon-nation/
