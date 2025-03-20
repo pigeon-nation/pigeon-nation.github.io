@@ -17,7 +17,7 @@ direction: ltr
 # index is a placeholder
 
 nav:
-  home: /index/
+  home: /
   about: /about/
   articles: /archives/
   projects: https://github.com/pigeon-nation/
